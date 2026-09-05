@@ -1,7 +1,12 @@
 {
   "publisherLogoUrl": "https://raw.githubusercontent.com/TalisTalis/chuvash_women_data/main/publisher_logo.png",
-  "publisherWebsite": "https://example.com",
-  "publisherName": "Издательский дом «Хыпар»",
-  "additionalInfo": "Газета выходит с 1997 года. Свидетельство о регистрации ПИ № ФС77-12345.\nАдрес: г. Чебоксары, ул. Ленина, д. 1\nТелефон: +7 (8352) 12-34-56\nE-mail: women@hypar.ru",
-  "copyright": "© Чăваш хĕрарăмĕ, все права защищены"
+  "publisherWebsite": "http://hypar.ru/",
+  "publisherName": "«Хыпар» издательство çурчĕ» автономи учрежденийĕ",
+  "foundationInfo": "1997 çулхи кăрлачăн 30-мĕшĕнче тухма пуçланă",
+  "founders": "Учредительсем: Чăваш Республикин цифра аталанăвĕпе информаци политикин тата массăллă коммуникацисен министерстви; «Хыпар» издательство çурчĕ» автономи учрежденийĕ",
+  "editorInChief": "Тĕп редактор: Н.А. Царыгина",
+  "registration": "СМИ регистрациленĕ: ПИ № ФС77-54016, 30.04.2003",
+  "ageRestriction": "16+",
+  "contacts": "chuvxeraram@mail.ru · 428019, Шупашкар, Иван Яковлев проспекчĕ, 13, Пичет çурчĕ",
+  "copyright": "© Чăваш хĕрарăмĕ, пур правана та хӳтӗлен"
 }
